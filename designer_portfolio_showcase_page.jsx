@@ -48,6 +48,7 @@ export default function PortfolioPage() {
               With Style.
             </h1>
 
+            
             <p className="mt-6 text-lg text-white/70 max-w-xl leading-relaxed">
               A modern portfolio website concept for designers to showcase
               projects, case studies, creative ideas, and personal branding.
